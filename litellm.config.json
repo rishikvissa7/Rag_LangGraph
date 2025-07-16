@@ -1,0 +1,10 @@
+{
+  "default_model": "together_ai/mistralai/Mistral-7B-Instruct-v0.2",
+  "model_list": [
+    {
+      "model_name": "together_ai/mistralai/Mistral-7B-Instruct-v0.2",
+      "litellm_provider": "together_ai",
+      "api_key": "309ce89cad6d001f10acf44e5e5bed429ab3cea28b0a5167de6e961e7c97f7eb"
+    }
+  ]
+}
