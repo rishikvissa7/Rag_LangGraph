@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+litellm
+qdrant-client
+sentence-transformers
+yfinance
+requests
+python-dotenv
+langchain
+langgraph
+langchain-litellm
